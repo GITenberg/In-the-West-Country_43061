@@ -1,0 +1,28 @@
+_repo: In-the-West-Country_43061
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43061-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Knight, Francis A. (Francis Arnold)
+    alias: Knight, Francis Arnold
+    birthdate: 1852
+    deathdate: 1915
+    gutenberg_agent_id: '42004'
+    url: http://www.gutenberg.org/2009/agents/42004
+description: ''
+gutenberg_issued: '2013-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43061'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Cornwall (England : County) -- Description and travel'
+- !lcsh 'Devon (England) -- Description and travel'
+title: In the West Country
+url: http://www.gutenberg.org/ebooks/43061
